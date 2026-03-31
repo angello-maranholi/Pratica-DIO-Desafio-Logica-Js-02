@@ -1,5 +1,5 @@
-# desafio-felipao-dio-2
-# Classificador de Nível de Herói
+# Desafio Felipão DIO 02
+## Classificador de Nível de Herói
 
 Projeto desenvolvido como parte de um desafio da DIO, com o objetivo de praticar lógica de programação em JavaScript.
 O programa calcula o saldo de vitórias de um herói e determina seu nível com base nesse valor.
